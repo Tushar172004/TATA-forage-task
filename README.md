@@ -1,4 +1,4 @@
-# TATA-forage-task
+
 # TATA Forage: Sales Data Analysis and Visualization
 
 ## 📊 Project Overview
