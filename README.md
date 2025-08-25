@@ -34,12 +34,7 @@ The analysis addresses key questions from both the CEO and CMO:
 
 ## 🖼️ Visuals
 
-_Insert high-quality screenshots or a short GIF of your interactive Excel dashboard here. This section makes your project stand out and immediately communicates the value of your work._
-
-## 🔗 Further Information
-
-* **Forage Virtual Internship:** [Link to the TATA Forage program page](https://www.theforage.com/simulations/tata/data-visualisation-p5xo)
-
+<img width="1046" height="597" alt="Screenshot 2025-08-25 225630" src="https://github.com/user-attachments/assets/d7381f3a-4c68-4b78-8bde-e390b2f4ee3e" />
 
 ---
 _This project was completed as part of the TATA Data Visualisation Virtual Internship, a free program on the Forage platform. The work is my own original creation based on the tasks provided._
