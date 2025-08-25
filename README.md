@@ -33,6 +33,7 @@ The analysis addresses key questions from both the CEO and CMO:
 * **Product Performance:** Insights into which products and categories contribute most to revenue, helping to optimize marketing campaigns and inventory.
 
 ## 🖼️ Visuals
+<img width="1120" height="520" alt="Screenshot 2025-08-25 225606" src="https://github.com/user-attachments/assets/27aa0bb6-8f9f-45d3-8b74-24e202b61bb0" />
 
 <img width="1046" height="597" alt="Screenshot 2025-08-25 225630" src="https://github.com/user-attachments/assets/d7381f3a-4c68-4b78-8bde-e390b2f4ee3e" />
 
